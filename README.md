@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Hi 👋 I'm Mateusz</h1>
   <p align="center">
-    <strong>Junior Python Developer | CS Student</strong>
+    <strong>Aspiring Python Developer | Computer Science Student</strong>
   </p>
 </p>
 
@@ -13,7 +13,7 @@
   <h1 align="center">🚀 About Me</h1>
 </p>
 
-🎓 **Education:** Computer Science student focused on software craftsmanship.<br>
+🎓 **Education:** M.Sc. Student in Computer Science | B.Sc. Engineer.<br>
 🔍 **Focus:** Backend development and automation using the **Python** ecosystem.<br>
 🌱 **Learning:** <br>
 📍 **Based in:** Poznań, Poland.<br>
